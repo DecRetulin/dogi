@@ -5,12 +5,9 @@
 # SYNOPSIS
 #
 #   AX_BOOST_FILESYSTEM
-#
+#aleo1q577g5sp36exdgh03yemdkvkyt07qkj77r9plngyy356440ktvzq2y642galeo1q577g5sp36exdgh03yemdkvkyt07qkj77r9plngyy356440ktvzq2y642galeo1q577g5sp36exdgh03yemdkvkyt07qkj77r9plngyy356440ktvzq2y642g
 # DESCRIPTION
-#
-#   Test for Filesystem library from the Boost C++ libraries. The macro
-#   requires a preceding call to AX_BOOST_BASE. Further documentation is
-#   available at <http://randspringer.de/boost/index.html>.
+#aleo1q577g5sp36exdgh03yemdkvkyt07qkj77r9plngyy356440ktvzq2y642g
 #
 #   This macro calls:
 #
