@@ -1,22 +1,3 @@
-#!/bin/bash
-#
-#  dogecoind The dogecoin core server.
-#
-#
-# chkconfig: 345 80 20
-# description: dogecoind
-# processname: dogecoind
-#
-
-# Source function library.
-. /etc/init.d/functions
-
-# you can override defaults in /etc/sysconfig/dogecoind, see below
-if [ -f /etc/sysconfig/dogecoind ]; then
-        . /etc/sysconfig/dogecoind
-fi
-
-RETVAL=0
 
 prog=dogecoind
 # you can override the lockfile via DOGECOIND_LOCKFILE in /etc/sysconfig/dogecoind
